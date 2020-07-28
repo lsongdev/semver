@@ -1,0 +1,14 @@
+{
+  "name": "@song940/semver",
+  "version": "0.0.0",
+  "description": "A tiny utility to compare semver strings.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test"
+  },
+  "author": "Lsong <song940@gmail.com> (https://lsong.org)",
+  "license": "MIT"
+}
