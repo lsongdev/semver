@@ -2,6 +2,8 @@
 
 > A tiny utility to compare semver strings.
 
+[![Build Status](https://travis-ci.org/song940/semver.svg?branch=master)](https://travis-ci.org/song940/semver)
+
 Compare semver strings (eg, `1.8.2`, `2.0.0-next.6`, `0.0.0-alpha-1`, etc) 
 
 The output will always be `0`, `1`, or `-1`, allowing `semver` to be used directly as a compare function for [`Array.sort()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort).
